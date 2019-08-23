@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-dsm501a-dust-sensor",
+  "title": "dsm501a-dust-sensor",
+  "keywords": "dsm501a-dust-sensor, esp32, esp8266, arduino",
+  "description": "dsm501a-dust-sensor plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-dsm501a-dust-sensor/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-dsm501a-dust-sensor/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
